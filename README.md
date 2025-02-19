@@ -1,4 +1,4 @@
-Projet Personnel: Détection de Plagiat avec FastText 
+# Projet Personnel: Détection de Plagiat avec FastText 
 
 ## Description
 Ce projet permet de détecter le plagiat en comparant un texte soumis avec une base de documents. Il utilise FastText pour générer des représentations vectorielles des documents et la similarité cosinus pour mesurer leur ressemblance.
